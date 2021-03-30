@@ -1,0 +1,1 @@
+I will be creating a simple version of rock, paper, scissors that can be played from the browser console. Later on I hope to add a functioning GUI as well.
